@@ -1,0 +1,12 @@
+\\psf\home\documents\visual studio 2010\Projects\15-game\15-game\bin\Release\15-game.exe.manifest
+\\psf\home\documents\visual studio 2010\Projects\15-game\15-game\bin\Release\15-game.application
+\\psf\home\documents\visual studio 2010\Projects\15-game\15-game\bin\Release\15-game.exe
+\\psf\home\documents\visual studio 2010\Projects\15-game\15-game\bin\Release\15-game.pdb
+\\psf\home\documents\visual studio 2010\Projects\15-game\15-game\obj\x86\Release\WindowsFormsApplication1.Game.resources
+\\psf\home\documents\visual studio 2010\Projects\15-game\15-game\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+\\psf\home\documents\visual studio 2010\Projects\15-game\15-game\obj\x86\Release\WindowsFormsApplication1.Welcome.resources
+\\psf\home\documents\visual studio 2010\Projects\15-game\15-game\obj\x86\Release\15-game.csproj.GenerateResource.Cache
+\\psf\home\documents\visual studio 2010\Projects\15-game\15-game\obj\x86\Release\15-game.exe.manifest
+\\psf\home\documents\visual studio 2010\Projects\15-game\15-game\obj\x86\Release\15-game.application
+\\psf\home\documents\visual studio 2010\Projects\15-game\15-game\obj\x86\Release\15-game.exe
+\\psf\home\documents\visual studio 2010\Projects\15-game\15-game\obj\x86\Release\15-game.pdb
